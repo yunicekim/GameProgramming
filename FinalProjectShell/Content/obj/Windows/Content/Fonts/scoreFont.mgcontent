@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/yunic/OneDrive/Documents/Study/School/Level 3/PROG2370-4 Game Programming with Data Structure/Assign/Project/YKimFinalProject/YKimFinalProject/Source Code/FinalProjectShell/Content/Fonts/scoreFont.spritefont</SourceFile>
+  <SourceTime>2019-11-27T16:50:22-05:00</SourceTime>
+  <DestFile>C:/Users/yunic/OneDrive/Documents/Study/School/Level 3/PROG2370-4 Game Programming with Data Structure/Assign/Project/YKimFinalProject/YKimFinalProject/Source Code/FinalProjectShell/Content/bin/Windows/Content/Fonts/scoreFont.xnb</DestFile>
+  <DestTime>2019-12-07T23:57:17.5034315-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

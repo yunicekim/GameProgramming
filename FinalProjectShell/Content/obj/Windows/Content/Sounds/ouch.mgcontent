@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/yunic/OneDrive/Documents/Study/School/Level 3/PROG2370-4 Game Programming with Data Structure/Assign/Project/YKimFinalProject/YKimFinalProject/Source Code/FinalProjectShell/Content/Sounds/ouch.wav</SourceFile>
+  <SourceTime>2019-12-06T19:25:46-05:00</SourceTime>
+  <DestFile>C:/Users/yunic/OneDrive/Documents/Study/School/Level 3/PROG2370-4 Game Programming with Data Structure/Assign/Project/YKimFinalProject/YKimFinalProject/Source Code/FinalProjectShell/Content/bin/Windows/Content/Sounds/ouch.xnb</DestFile>
+  <DestTime>2019-12-07T23:57:20.8782596-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

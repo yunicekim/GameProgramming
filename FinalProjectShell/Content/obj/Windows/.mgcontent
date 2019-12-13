@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/YKimFinalProject/Source Code/FinalProjectShell/Content/Sounds/ouch.wav</File>
+    <File>C:/YKimFinalProject/Source Code/FinalProjectShell/Content/Images/aboutImage.png</File>
+    <File>C:/Final/FinalProject_Source Code/FinalProjectShell/Content/../../../../Users/yunic/OneDrive/Desktop/ouch.wav</File>
+    <File>C:/Final/FinalProject_Source Code/FinalProjectShell/Content/Sounds/ouch.wav</File>
+    <File>C:/FinalProject_Source Code/FinalProjectShell/Content/Images/Explosion Medium.png</File>
+    <File>C:/FinalProject/FinalProjectShell/Content/Sounds/Battle in the winter.mp3</File>
+    <File>C:/FinalProject/FinalProjectShell/Content/Sounds/explosion.wav</File>
+    <File>C:/FinalProject/FinalProjectShell/Content/Sounds/SHOOT011.mp3</File>
+    <File>C:/FinalProject/FinalProjectShell/Content/Sounds/snd_music_victorytheme.ogg</File>
+    <File>C:/FinalProject/FinalProjectShell/Content/Fonts/hilightFont.spritefont</File>
+    <File>C:/FinalProject/FinalProjectShell/Content/Fonts/hudFont.spritefont</File>
+    <File>C:/FinalProject/FinalProjectShell/Content/Fonts/regularFont.spritefont</File>
+    <File>C:/FinalProject/FinalProjectShell/Content/Fonts/scoreFont.spritefont</File>
+    <File>C:/FinalProject/FinalProjectShell/Content/Images/aboutImage.png</File>
+    <File>C:/FinalProject/FinalProjectShell/Content/Images/boom.png</File>
+    <File>C:/FinalProject/FinalProjectShell/Content/Images/cookingKnife.png</File>
+    <File>C:/FinalProject/FinalProjectShell/Content/Images/helpImage.png</File>
+    <File>C:/FinalProject/FinalProjectShell/Content/Images/kitchenKnife.png</File>
+    <File>C:/FinalProject/FinalProjectShell/Content/Images/laundryBasket.png</File>
+    <File>C:/FinalProject/FinalProjectShell/Content/Images/lunchBox.png</File>
+    <File>C:/FinalProject/FinalProjectShell/Content/Images/solar-twin-hd186302.jpg</File>
+    <File>C:/FinalProject/FinalProjectShell/Content/Images/vacum.png</File>
+    <File>C:/FinalProject/FinalProjectShell/Content/Images/wonderWoman.png</File>
+    <File>C:/FinalProject/FinalProjectShell/Content/Images/wonderWoman-ouch.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File>Sounds/ouch.wav</File>
+  </DestFiles>
+</SourceFileCollection>

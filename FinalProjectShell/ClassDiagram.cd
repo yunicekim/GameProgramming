@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FinalProjectShell.Enemy" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAAAEQAAAIyBAAAAAIAAAAAABAgAAAAAAAEkAEAQ=</HashCode>
+      <FileName>Enemy\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProjectShell.EnemyManager" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEABAAAQBAAAAAAAACAAAAAAAAAAwAAAAgAAA=</HashCode>
+      <FileName>Enemy\EnemyManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProjectShell.GameOverOverlay" Collapsed="true">
+    <Position X="2.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hud Items\GameOverOverlay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProjectShell.HudString" Collapsed="true">
+    <Position X="4.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgIAAAIAACAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAIQ=</HashCode>
+      <FileName>Hud Items\HudString.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProjectShell.LifeScore" Collapsed="true">
+    <Position X="4.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAAAAAAEAAAAAAAAAAAAEAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Hud Items\LifeScore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProjectShell.Score" Collapsed="true">
+    <Position X="6.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAgAAAAAAAIAAAAAAAAAAABAAAAgAAAAAA=</HashCode>
+      <FileName>Hud Items\Score.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProjectShell.AboutScene" Collapsed="true">
+    <Position X="8.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scene\AboutScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProjectShell.AboutTextComponent" Collapsed="true">
+    <Position X="8.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAwAAAAAAAAAAAAAAAgAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Scene\AboutTextComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProjectShell.ActionScene" Collapsed="true">
+    <Position X="2.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQAAAAAAAAAQEAEAAAAAAAAAAEAAAAAACAAgAIAJQ=</HashCode>
+      <FileName>Scene\ActionScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProjectShell.Background" Collapsed="true">
+    <Position X="2.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAIAAAAAAAAgACAAQAQQAABAw=</HashCode>
+      <FileName>Scene\Background.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProjectShell.GameScene" Collapsed="true">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAUAAAAAAAAAAQAAEEAAAAAAAAAEAAAEAAIABAAAAAA=</HashCode>
+      <FileName>Scene\GameScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProjectShell.HelpScene" Collapsed="true">
+    <Position X="4.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scene\HelpScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProjectShell.HelpTextComponent" Collapsed="true">
+    <Position X="4.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAwAAAAAAAAAAAAAAAgAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Scene\HelpTextComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProjectShell.HighScoreComponent" Collapsed="true">
+    <Position X="6.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIwAAAAAKAAEAAAAAEBAAAEAAAAAAIgQ=</HashCode>
+      <FileName>Scene\HighScoreComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProjectShell.HighScoreScene" Collapsed="true">
+    <Position X="6.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAgAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scene\HighScoreScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProjectShell.MenuComponent" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAACAAAAgAAwAAAAAQIAIAAAAAABAQAIAAAAAgAAQ=</HashCode>
+      <FileName>Scene\MenuComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProjectShell.StartScene" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAEAAQAAAAAAAEAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Scene\StartScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProjectShell.Weapon" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAABAAAAAAgAAAAAAIAAAAAEAAgABAAgAAEEIEAQ=</HashCode>
+      <FileName>Weapon\Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProjectShell.Player" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIRAAAAACAAAEgJAAAAAIAAAAAAIAQABAgAAQEEAEAQ=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProjectShell.Game1" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAEEAAAAAAAwAAAAAAAAAAAAAAAggAAAAAAAAAAAQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="FinalProjectShell.EnemyType" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAACAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enemy\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FinalProjectShell.HudLocation" Collapsed="true">
+    <Position X="6.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAIAAAAIBAAAAAAAQAAAAAAAAAAAAAAAAgAAEA=</HashCode>
+      <FileName>Hud Items\HudLocation.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FinalProjectShell.BackgroundAncher" Collapsed="true">
+    <Position X="2.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAA=</HashCode>
+      <FileName>Scene\Background.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FinalProjectShell.MenuSelection" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAEAAAAgAAAgAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Scene\StartScene.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

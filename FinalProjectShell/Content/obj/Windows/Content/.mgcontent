@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/yunic/OneDrive/Documents/Study/School/Level 3/PROG2370-4 Game Programming with Data Structure/Assign/Project/YKimFinalProject/YKimFinalProject/Source Code/FinalProjectShell/Content/Fonts/hilightFont.spritefont</File>
+    <File>C:/Users/yunic/OneDrive/Documents/Study/School/Level 3/PROG2370-4 Game Programming with Data Structure/Assign/Project/YKimFinalProject/YKimFinalProject/Source Code/FinalProjectShell/Content/Fonts/hudFont.spritefont</File>
+    <File>C:/Users/yunic/OneDrive/Documents/Study/School/Level 3/PROG2370-4 Game Programming with Data Structure/Assign/Project/YKimFinalProject/YKimFinalProject/Source Code/FinalProjectShell/Content/Fonts/regularFont.spritefont</File>
+    <File>C:/Users/yunic/OneDrive/Documents/Study/School/Level 3/PROG2370-4 Game Programming with Data Structure/Assign/Project/YKimFinalProject/YKimFinalProject/Source Code/FinalProjectShell/Content/Fonts/scoreFont.spritefont</File>
+    <File>C:/Users/yunic/OneDrive/Documents/Study/School/Level 3/PROG2370-4 Game Programming with Data Structure/Assign/Project/YKimFinalProject/YKimFinalProject/Source Code/FinalProjectShell/Content/Images/aboutImage.png</File>
+    <File>C:/Users/yunic/OneDrive/Documents/Study/School/Level 3/PROG2370-4 Game Programming with Data Structure/Assign/Project/YKimFinalProject/YKimFinalProject/Source Code/FinalProjectShell/Content/Images/boom.png</File>
+    <File>C:/Users/yunic/OneDrive/Documents/Study/School/Level 3/PROG2370-4 Game Programming with Data Structure/Assign/Project/YKimFinalProject/YKimFinalProject/Source Code/FinalProjectShell/Content/Images/cookingKnife.png</File>
+    <File>C:/Users/yunic/OneDrive/Documents/Study/School/Level 3/PROG2370-4 Game Programming with Data Structure/Assign/Project/YKimFinalProject/YKimFinalProject/Source Code/FinalProjectShell/Content/Images/Explosion Medium.png</File>
+    <File>C:/Users/yunic/OneDrive/Documents/Study/School/Level 3/PROG2370-4 Game Programming with Data Structure/Assign/Project/YKimFinalProject/YKimFinalProject/Source Code/FinalProjectShell/Content/Images/helpImage.png</File>
+    <File>C:/Users/yunic/OneDrive/Documents/Study/School/Level 3/PROG2370-4 Game Programming with Data Structure/Assign/Project/YKimFinalProject/YKimFinalProject/Source Code/FinalProjectShell/Content/Images/kitchenKnife.png</File>
+    <File>C:/Users/yunic/OneDrive/Documents/Study/School/Level 3/PROG2370-4 Game Programming with Data Structure/Assign/Project/YKimFinalProject/YKimFinalProject/Source Code/FinalProjectShell/Content/Images/laundryBasket.png</File>
+    <File>C:/Users/yunic/OneDrive/Documents/Study/School/Level 3/PROG2370-4 Game Programming with Data Structure/Assign/Project/YKimFinalProject/YKimFinalProject/Source Code/FinalProjectShell/Content/Images/lunchBox.png</File>
+    <File>C:/Users/yunic/OneDrive/Documents/Study/School/Level 3/PROG2370-4 Game Programming with Data Structure/Assign/Project/YKimFinalProject/YKimFinalProject/Source Code/FinalProjectShell/Content/Images/solar-twin-hd186302.jpg</File>
+    <File>C:/Users/yunic/OneDrive/Documents/Study/School/Level 3/PROG2370-4 Game Programming with Data Structure/Assign/Project/YKimFinalProject/YKimFinalProject/Source Code/FinalProjectShell/Content/Images/vacum.png</File>
+    <File>C:/Users/yunic/OneDrive/Documents/Study/School/Level 3/PROG2370-4 Game Programming with Data Structure/Assign/Project/YKimFinalProject/YKimFinalProject/Source Code/FinalProjectShell/Content/Images/wonderWoman.png</File>
+    <File>C:/Users/yunic/OneDrive/Documents/Study/School/Level 3/PROG2370-4 Game Programming with Data Structure/Assign/Project/YKimFinalProject/YKimFinalProject/Source Code/FinalProjectShell/Content/Images/wonderWoman-ouch.png</File>
+    <File>C:/Users/yunic/OneDrive/Documents/Study/School/Level 3/PROG2370-4 Game Programming with Data Structure/Assign/Project/YKimFinalProject/YKimFinalProject/Source Code/FinalProjectShell/Content/Sounds/Battle in the winter.mp3</File>
+    <File>C:/Users/yunic/OneDrive/Documents/Study/School/Level 3/PROG2370-4 Game Programming with Data Structure/Assign/Project/YKimFinalProject/YKimFinalProject/Source Code/FinalProjectShell/Content/Sounds/explosion.wav</File>
+    <File>C:/Users/yunic/OneDrive/Documents/Study/School/Level 3/PROG2370-4 Game Programming with Data Structure/Assign/Project/YKimFinalProject/YKimFinalProject/Source Code/FinalProjectShell/Content/Sounds/ouch.wav</File>
+    <File>C:/Users/yunic/OneDrive/Documents/Study/School/Level 3/PROG2370-4 Game Programming with Data Structure/Assign/Project/YKimFinalProject/YKimFinalProject/Source Code/FinalProjectShell/Content/Sounds/SHOOT011.mp3</File>
+    <File>C:/Users/yunic/OneDrive/Documents/Study/School/Level 3/PROG2370-4 Game Programming with Data Structure/Assign/Project/YKimFinalProject/YKimFinalProject/Source Code/FinalProjectShell/Content/Sounds/snd_music_victorytheme.ogg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
